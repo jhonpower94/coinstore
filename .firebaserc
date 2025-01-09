@@ -5,7 +5,8 @@
     "ib": "instantbank-d1bda",
     "alliant": "alliant-96528",
     "rb": "rabobank-2c011",
-    "fex": "fexbank-232c4"
+    "fex": "fexbank-232c4",
+    "pp": "payplus-1dfdf"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -47,6 +48,13 @@
       "hosting": {
         "fex": [
           "fexbank"
+        ]
+      }
+    },
+    "payplus-1dfdf": {
+      "hosting": {
+        "pp": [
+          "payplus"
         ]
       }
     }

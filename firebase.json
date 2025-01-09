@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "fex",
+    "target": "pp",
     "public": "public",
     "ignore": [
       "firebase.json",
