@@ -58,6 +58,13 @@
           "payplus"
         ]
       }
+    },
+    "savings-6bbbb": {
+      "hosting": {
+        "ss": [
+          "mysavingsapp"
+        ]
+      }
     }
   },
   "etags": {},

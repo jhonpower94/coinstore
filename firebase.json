@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "pp",
+    "target": "ss",
     "public": "public",
     "ignore": [
       "firebase.json",
