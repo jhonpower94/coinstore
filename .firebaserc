@@ -7,7 +7,8 @@
     "rb": "rabobank-2c011",
     "fex": "fexbank-232c4",
     "pp": "payplus-1dfdf",
-    "ss": "savings-6bbbb"
+    "ss": "savings-6bbbb",
+    "cs": "coinstore-db7b9"
   },
   "targets": {
     "koinbittrust-7ba0a": {
@@ -63,6 +64,13 @@
       "hosting": {
         "ss": [
           "deutschebanksavings"
+        ]
+      }
+    },
+    "coinstore-db7b9": {
+      "hosting": {
+        "cs": [
+          "coinstorage"
         ]
       }
     }
