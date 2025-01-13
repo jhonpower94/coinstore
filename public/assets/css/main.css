@@ -719,7 +719,7 @@ a, button {
 }
 
 .navbar-brand img {
-  width: 150px;
+  width: 250px;
   transition: all 0.5s ease;
 }
 
@@ -756,7 +756,7 @@ a, button {
 }
 
 .header-sticky .navbar-brand img {
-  width: 75%;
+  width: 250px;
 }
 
 #toggle-menu .navbar-nav a h2 {
